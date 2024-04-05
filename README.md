@@ -1,2 +1,3 @@
 # Toto_FileBackup
-This is a code written by me for a PClub project of creating a CLI based backup tool in Go.
+I wrote this code for a PClub project of creating a CLI-based backup tool in Go.
+Open Bug: Cannot correctly identify which files are to be modified and which are not.
