@@ -10,7 +10,11 @@ This is an incomplete project but I hope this will have future updates in the fu
 
 Find the documentation on https://github.com/Havok17122004/Toto_FileBackup.git
 
-## Commands -
+![toto-high-resolution-logo](https://github.com/Havok17122004/Toto_FileBackup/assets/148974367/03afafee-9196-46a7-9243-710e9f162dc0)
+
+
+## Commands ->
+
 #### 1) copyall -
   This copies the entire contents of a folder including subfolders and subfiles directly into the destination folder named 'backup'. It may replace any existing files present in the 'backup' directory, if present.
 	If the source directory is: "D:\test"
